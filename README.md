@@ -9,9 +9,10 @@
 * 2회차: <딥러닝> 선형 회귀 Linear Regression.
 * 3회차: <딥러닝> 다중 변수 선형 회귀 Multi-Variable Linear Regression.
 * 4회차: <딥러닝> Logistic Regression
-* 5회차: <딥러닝> 숙제 및 Regularization (예정)
-* 6회차: <딥러닝> Neural Network (예정)
+* 5회차: <딥러닝> 숙제 및 Regularization
+* 6회차: <딥러닝> MNIST 구현 (예정)
+* 7회차: <딥러닝> Neural Network (예정)
 
 ## 요청 스터디 
 * iOS 개발
-* Linux 기본 과정 <서버 관리자로서 접근한 곳>
+* Linux 기본 과정 <서버 관리자로서 필요한 것>
